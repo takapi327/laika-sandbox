@@ -1,11 +1,12 @@
 {
   "versions": [
+    { "displayValue": "0.2.x", "pathSegment": "0.2", "fallbackLink": "/index.html", "canonical": false },
     { "displayValue": "0.1.x", "pathSegment": "0.1", "fallbackLink": "/index.html", "canonical": false }
   ],
   "linkTargets": [
-    { "path": "/chapter1/index.html", "versions": ["0.1"] },
-    { "path": "/en/index.html", "versions": ["0.1"] },
-    { "path": "/index.html", "versions": ["0.1"] },
-    { "path": "/ja/index.html", "versions": ["0.1"] }
+    { "path": "/chapter1/index.html", "versions": ["0.2"] },
+    { "path": "/en/index.html", "versions": ["0.2"] },
+    { "path": "/index.html", "versions": ["0.2"] },
+    { "path": "/ja/index.html", "versions": ["0.2"] }
   ]
 }
