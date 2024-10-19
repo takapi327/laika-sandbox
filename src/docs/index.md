@@ -5,7 +5,7 @@ laika.metadata {
 }
 %}
 
-# Hello, Laika!
+# Hello, Laika! v2
 
 - [English](en/index.md)
 - [Japanese](ja/index.md)
